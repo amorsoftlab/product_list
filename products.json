@@ -1,1 +1,11 @@
+{
+  "id": "music-club",
+  "title": "Music Club",
+  "description": "An elegant, feature-rich desktop music player...",
+  "repo": "amorsoftlab/music-club",
+  "category": "Desktop Application",
+  "tags": ["Electron", "React", "TypeScript"],
+  "status": "Active",
+  "githubUrl": "https://github.com/amorsoftlab/music-club"
+}
 
