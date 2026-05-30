@@ -1,19 +1,20 @@
-{
-  "id": "music-club",
-  "title": "Music Club",
-  "description": "An elegant, feature-rich desktop music player...",
-  "category": "Desktop Application",
-  "tags": ["Electron", "React", "TypeScript"],
-  "status": "Active",
-  "githubUrl": "https://github.com/amorsoftlab/music_club_release.git"
-}
-
-{
-  "id": "event-desk",
-  "title": "Event Desk ",
-  "description": "A hall booking and manageemnt app for Hall owners",
-  "category": "Android Application",
-  "tags": ["Electron", "React", "TypeScript"],
-  "status": "Active",
-  "githubUrl": "https://github.com/amorsoftlab/event_desk.git"
-}
+[
+  {
+    "id": "music-club",
+    "title": "Music Club",
+    "description": "An elegant, feature-rich desktop music player. Stream your favorite tunes, curate personal playlists, and experience high-fidelity audio.",
+    "category": "Desktop Application",
+    "tags": ["Electron", "React", "TypeScript"],
+    "status": "Active",
+    "githubUrl": "https://github.com/amorsoftlab/music_club_release.git"
+  },
+  {
+    "id": "event-desk",
+    "title": "Event Desk",
+    "description": "A hall booking and management app for Hall owners.",
+    "category": "Android Application",
+    "tags": ["Electron", "React", "TypeScript"],
+    "status": "Active",
+    "githubUrl": "https://github.com/amorsoftlab/event_desk.git"
+  }
+]
