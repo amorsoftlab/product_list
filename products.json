@@ -2,10 +2,18 @@
   "id": "music-club",
   "title": "Music Club",
   "description": "An elegant, feature-rich desktop music player...",
-  "repo": "amorsoftlab/music-club",
   "category": "Desktop Application",
   "tags": ["Electron", "React", "TypeScript"],
   "status": "Active",
-  "githubUrl": "https://github.com/amorsoftlab/music-club"
+  "githubUrl": "https://github.com/amorsoftlab/music_club_release.git"
 }
 
+{
+  "id": "event-desk",
+  "title": "Event Desk ",
+  "description": "A hall booking and manageemnt app for Hall owners",
+  "category": "Android Application",
+  "tags": ["Electron", "React", "TypeScript"],
+  "status": "Active",
+  "githubUrl": "https://github.com/amorsoftlab/event_desk.git"
+}
