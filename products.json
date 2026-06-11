@@ -20,7 +20,7 @@
   {
     "id": "Split-Flow",
     "title": "SplitFLow",
-    "description": ""SplitFlow is a modern, intuitive bill-splitting and expense-sharing application. It allows users to easily track group expenses,scan QR codes for quick group access, and seamlessly settle balances with friends. With real-time cloud sync and a sleek UI, SplitFlow makes managing shared finances effortless..",
+    "description": "SplitFlow is a modern, intuitive bill-splitting and expense-sharing application. It allows users to easily track group expenses,scan QR codes for quick group access, and seamlessly settle balances with friends. With real-time cloud sync and a sleek UI, SplitFlow makes managing shared finances effortless.",
     "category": "Android Application",
     "tags": ["Electron", "React", "TypeScript"],
     "status": "Active",
