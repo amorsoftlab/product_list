@@ -13,7 +13,7 @@
     "title": "Event Desk",
     "description": "A hall booking and management app for Hall owners.",
     "category": "Android Application",
-    "tags": ["Electron", "React", "TypeScript"],
+    "tags": [],
     "status": "Active",
     "githubUrl": "https://github.com/amorsoftlab/event_desk.git"
   },
