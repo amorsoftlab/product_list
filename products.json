@@ -3,7 +3,7 @@
     "id": "music-club",
     "title": "Music Club",
     "description": "An elegant, feature-rich desktop music player. Stream your favorite tunes, curate personal playlists, and experience high-fidelity audio.",
-    "category": "Desktop Application",
+    "category": "Desktop Application,Android Application",
     "tags": ["Electron", "React", "TypeScript"],
     "status": "Active",
     "githubUrl": "https://github.com/amorsoftlab/music_club_release.git"
@@ -16,5 +16,15 @@
     "tags": ["Electron", "React", "TypeScript"],
     "status": "Active",
     "githubUrl": "https://github.com/amorsoftlab/event_desk.git"
+  },
+  {
+    "id": "Split-Flow",
+    "title": "SplitFLow",
+    "description": ""SplitFlow is a modern, intuitive bill-splitting and expense-sharing application. It allows users to easily track group expenses,
+    scan QR codes for quick group access, and seamlessly settle balances with friends. With real-time cloud sync and a sleek UI, SplitFlow makes managing shared finances effortless..",
+    "category": "Android Application",
+    "tags": ["Electron", "React", "TypeScript"],
+    "status": "Active",
+    "githubUrl": "https://github.com/amorsoftlab/https://github.com/amorsoftlab/splitit.git"
   }
 ]
