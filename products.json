@@ -25,5 +25,15 @@
     "tags": ["Electron", "React", "TypeScript"],
     "status": "Active",
     "githubUrl": "https://github.com/amorsoftlab/splitit.git"
+  },
+{
+    "id": "Wide-send",
+    "title": "Widesend",
+    "description": "free wifi file share",
+    "category": "Android Application,windows, mac ,linux",
+    "tags": ["Electron", "React", "TypeScript"],
+    "status": "Active",
+    "githubUrl": "https://github.com/amorsoftlab/wide_send.git"
   }
+  
 ]
