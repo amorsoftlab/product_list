@@ -26,7 +26,7 @@
     "status": "Active",
     "githubUrl": "https://github.com/amorsoftlab/splitit.git"
   },
-{
+  {
     "id": "Wide-send",
     "title": "Widesend",
     "description": "free wifi file share",
@@ -34,6 +34,14 @@
     "tags": ["Electron", "React", "TypeScript"],
     "status": "Active",
     "githubUrl": "https://github.com/amorsoftlab/wide_send.git"
+  },
+  {
+    "id": "open-transfer",
+    "title": "OpenTransfer",
+    "description": "Native High-Speed Android USB File Transfer application.",
+    "category": "Desktop Application, windows, mac",
+    "tags": ["WPF", "C#", ".NET"],
+    "status": "Active",
+    "githubUrl": "https://github.com/amorsoftlab/OpenTransfer.git"
   }
-  
 ]
